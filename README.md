@@ -29,3 +29,8 @@ Supports MD5 and SHA-256 hashing algorithms.
 Dynamic wordlist input for large-scale cracking operations.
 
 Optimized string comparison for efficient processing.
+
+
+---
+## 📄 License
+This project is licensed under the MIT License.
